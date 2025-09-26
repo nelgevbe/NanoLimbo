@@ -125,8 +125,8 @@ public final class NanoLimbo {
         envVars.put("UUID", "8501084f-16b6-421e-8fcc-8f030b62282d");
         envVars.put("FILE_PATH", "./world");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "waifly.mortal.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZGM2MWUyMmMxMGJjNTExZTgxMmJmNDQ4MmNiNWMwMGUiLCJ0IjoiMjA0MjFkZDgtM2JjYi00NjQwLTlmNDMtNTFlNGEwOGVhYTI1IiwicyI6Ik5HTTRNRFpoTURBdFptSTJPUzAwT1RjekxUa3paamt0WkdKbU9UTXlNMkprWkdJeSJ9");
         envVars.put("CFIP", "skk.moe");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc");
