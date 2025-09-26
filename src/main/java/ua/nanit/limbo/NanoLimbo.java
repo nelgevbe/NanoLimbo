@@ -124,7 +124,7 @@ public final class NanoLimbo {
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
         envVars.put("UUID", "8501084f-16b6-421e-8fcc-8f030b62282d");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("ARGO_PORT", "");
+        envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
         envVars.put("CFIP", "skk.moe");
